@@ -1,0 +1,2 @@
+debian/bin/charityd usr/bin
+src/charityd usr/lib/charity
